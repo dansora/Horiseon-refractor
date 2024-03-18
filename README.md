@@ -35,6 +35,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
+
 A screenshot of the live project is as follows
 ![Screenshot](./Assets/img/Screenshot%20Horiseon%20project.png)
 

@@ -35,6 +35,8 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
+A screenshot of the live project is as follows
+![Screenshot](./Assets/img/Screenshot%20Horiseon%20project.png)
 
 ### Resources:
 
@@ -42,10 +44,10 @@ Your website must meet accessibility standards. You can achieve this completing 
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 * The URL of the deployed application...
-
+https://dansora.github.io/Horiseon-refractor/
 
 * The URL of the GitHub repository...
-
+https://github.com/dansora/Horiseon-refractor
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
